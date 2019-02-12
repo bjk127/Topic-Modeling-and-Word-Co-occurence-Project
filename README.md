@@ -1,7 +1,7 @@
 NLP test 
 
 <p align="center">
-  <img src="images/Reasons to Not take a language.png">
+  <img src="images/Reasons to NOT take a language.png">
 </p>
 
 <p align="center">
