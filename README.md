@@ -1,4 +1,4 @@
-NLP test 
+NLP project. More to come.
 
 <p align="center">
   <img src="images/Reasons to NOT take a language.png">
