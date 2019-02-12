@@ -1,4 +1,4 @@
-NLP project. More to come.
+NLP project using text data from university-wide survey on learning another language. More to come.
 
 <p align="center">
   <img src="images/Reasons to NOT take a language.png">
