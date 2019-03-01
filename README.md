@@ -1,7 +1,7 @@
-# NLP project using text data from university-wide survey 
+# NLP project using text data from large survey 
 ## On learning another language 
 
-A few years ago I was on a Task Force determing whether or not Rutgers should put in place a second-language requirement. The project entailed a large university-wide survey (N = 35,000), which has since then turned into a new study, "Rutgers Multilingual Survey". In light of practicing some interesting NLP technologies, I tried out some word co-occurences and LDA models to do some exploratory analyses on the data. 
+A quick exploratory look at word co-occurences from large survey. 
 
 First were the columns pertaining to students' attitude toward taking another language
 <p align="center">
@@ -14,7 +14,7 @@ After, I then looked at those same students and why they would NOT take another 
 
 <p align="center">
   <img src="images/Reasons to NOT take a language.png">
-</p>
+</p>A
 
 
 
